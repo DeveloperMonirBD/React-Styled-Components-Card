@@ -78,14 +78,14 @@ export default function Card() {
 1. Clone the repository:
 
 ```Bash
-git clone https://github.com/DeveloperMonirBD/react-styled-components-card.git
+git clone https://github.com/DeveloperMonirBD/React-Styled-Components-Card.git
 
 ```
 
 2. Navigate to the project folder:
 
 ```Bash
-cd react-styled-components-card
+cd React-Styled-Components-Card
 
 ```
 
@@ -122,6 +122,7 @@ npm install styled-components
 - Cleaner component-based architecture
 - No need for external CSS files
 
+
 ## 📌 Customization
 
 ### You can easily customize:
@@ -131,6 +132,7 @@ npm install styled-components
 - Button links
 - Image source
 
+### Example:
 ```Javascript
 <H1 color="red" />
 
@@ -139,6 +141,7 @@ npm install styled-components
 ## 🤝 Contributing
 
 Feel free to fork this project and improve it. Pull requests are welcome!
+
 
 ### ⭐ If you like this project, give it a star!
 
@@ -150,12 +153,3 @@ If you want, I can also:
 - Or :contentReference[oaicite:2]{index=2} 👍
 
 ```
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
