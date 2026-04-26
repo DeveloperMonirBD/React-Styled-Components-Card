@@ -78,14 +78,14 @@ export default function Card() {
 1. Clone the repository:
 
 ```Bash
-git clone https://github.com/DeveloperMonirBD/React-Styled-Components-Card.git
+git clone https://github.com/DeveloperMonirBD/react-styled-components-card.git
 
 ```
 
 2. Navigate to the project folder:
 
 ```Bash
-cd React-Styled-Components-Card
+cd react-styled-components-card
 
 ```
 
@@ -122,7 +122,6 @@ npm install styled-components
 - Cleaner component-based architecture
 - No need for external CSS files
 
-
 ## 📌 Customization
 
 ### You can easily customize:
@@ -133,6 +132,7 @@ npm install styled-components
 - Image source
 
 ### Example:
+
 ```Javascript
 <H1 color="red" />
 
@@ -142,14 +142,5 @@ npm install styled-components
 
 Feel free to fork this project and improve it. Pull requests are welcome!
 
-
 ### ⭐ If you like this project, give it a star!
 
-```
----
-If you want, I can also:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- Or :contentReference[oaicite:2]{index=2} 👍
-
-```
